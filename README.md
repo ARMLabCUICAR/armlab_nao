@@ -24,7 +24,9 @@
 
 2) Communicate with Nao over WiFi
 
-- Ask Janine
+- Connect Nao with ethernet cable and bring up the Nao homepage.
+- Connect to lab WiFi from Homepage
+- Disconnect cable, and attempt to ping Nao
 
 3) Interact with Nao:
 - SSH into Nao
@@ -36,19 +38,20 @@ more examples: http://doc.aldebaran.com/2-1/dev/python/examples.html
 
 ## Nao Information:
  
-Naoqi version: 1.14.5.1
-Choreographe version: 2.4.1
-Body Type :  naoH25
-Nao Version: V4
-Head Version :  VERSION_40
-Body Version :  VERSION_40
-build date: 2013-06-26 10:47:23 UTC
-build ID: 507ae225aa614ee686f1a9836527033ee2a45772
+- Naoqi version: 1.14.5.1
+- Choreographe version: 2.4.1
+- Body Type :  naoH25
+- Nao Version: V3.3
+- Head Version :  VERSION_40
+- Body Version :  VERSION_40
+- build date: 2013-06-26 10:47:23 UTC
+- build ID: 507ae225aa614ee686f1a9836527033ee2a45772
 
 Serial Numbers:
-HE S/N: ALDT1008B00003353
-BA S/N: ALDE000039B00003810
-BO S/N: ALDR1008E0003619
+
+- HE S/N: ALDT1008B00003353
+- BA S/N: ALDE000039B00003810
+- BO S/N: ALDR1008E0003619
 
 ## Using Choreographe:
 
